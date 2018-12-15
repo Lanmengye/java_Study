@@ -20,7 +20,7 @@ Servlet（Server Applet）是Java Servlet的简称，称为小服务程序或服
 
 5. WEB应用程序被停止或重新启动之前，将调用Servlet的`destroy()`方法并卸载Servlet
 
-  ![](..\..\image\servlet运行过程.png)
+  ![](../../image/servlet运行过程.png)
 
 <center>servlet运行过程</center>
 

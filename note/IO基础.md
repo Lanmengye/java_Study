@@ -49,7 +49,7 @@ public File[] listFiles();
 
   - 字节流在操作的时候本身是不会用到缓冲区的，是文件本身的直接操作的；而字符流在操作的时候下后是会用到缓冲区的，是通过缓冲区来操作文件
 
-![](..\image\java_IO.png)
+![](../image/java_IO.png)
 
 <center>IO流体系结构图</center>
 

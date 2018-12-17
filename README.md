@@ -6,3 +6,6 @@
 
 - [IO基础](/note/IO基础.md)
 
+## JavaWeb基础
+
+- [servlet基础](note/javaweb/servlet.md)

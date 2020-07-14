@@ -1,4 +1,4 @@
-package sennet.java.multi_thread;
+package senney.java.multi_thread;
 
 import static java.util.stream.Collectors.toList;
 

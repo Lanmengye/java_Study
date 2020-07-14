@@ -39,3 +39,4 @@ gen/
 .DS_Store
 *.MF
 */.settings/*
+*/bin/
